@@ -1,0 +1,82 @@
+-----ss project report -----
+date & time:
+Fri Apr 24 01:02:28 PDT 2026
+-----------------
+current directory:
+/c/Users/acer/ss-project
+-------------------
+files list:
+monitor.sh
+report.txt
+-------------------
+disk usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git   98G   52G   46G  54% /
+D:                    121G   97M  120G   1% /d
+F:                    125G   97M  124G   1% /f
+G:                    125G   97M  124G   1% /g
+--------------------
+memory info:
+
+Host Name:                 DESKTOP-8C2AU7P
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          acer
+Registered Organization:   
+Product ID:                00331-10000-00001-AA296
+Original Install Date:     1/2/2026, 11:32:31 PM
+System Boot Time:          4/23/2026, 7:25:02 AM
+System Manufacturer:       Acer
+System Model:              Aspire E5-571
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~782 Mhz
+BIOS Version:              Insyde Corp. V1.09, 7/11/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,019 MB
+Available Physical Memory: 244 MB
+Virtual Memory: Max Size:  6,963 MB
+Virtual Memory: Available: 2,151 MB
+Virtual Memory: In Use:    4,812 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-8C2AU7P
+Hotfix(s):                 11 Hotfix(s) Installed.
+                           [01]: KB5066135
+                           [02]: KB5003791
+                           [03]: KB5007401
+                           [04]: KB5011048
+                           [05]: KB5012170
+                           [06]: KB5015684
+                           [07]: KB5033052
+                           [08]: KB5072653
+                           [09]: KB5066791
+                           [10]: KB5007273
+                           [11]: KB5066790
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Broadcom 802.11n Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.42.42
+                                 IP address(es)
+                                 [01]: 192.168.42.112
+                                 [02]: fe80::335e:3556:fd51:881
+                                 [03]: 2409:408d:1dbd:fbe1:e915:f97b:633c:c81
+                                 [04]: 2409:408d:1dbd:fbe1:5b66:2d8e:2ba:a828
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+----------------------
+error check:
+---------------------------
+creating backup...
+monitor.sh
